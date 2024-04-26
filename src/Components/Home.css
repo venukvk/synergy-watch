@@ -1,0 +1,17 @@
+.banner_component {
+    height: 50vh;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(22, 22, 124, 0.3394607843137255) 31%,
+      rgba(0, 212, 255, 1) 99%
+    );
+  }
+  
+  .channel_description p {
+    margin-bottom: 0px;
+  }
+  .img1{
+    width: 100%;
+  }
